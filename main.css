@@ -1,4 +1,8 @@
-article img{
+a {
+    color: #069;
+    text-decoration: none;
+}
+article img {
     max-width: 98%;
     -webkit-border-radius: 3px;
     border-radius: 3px;
